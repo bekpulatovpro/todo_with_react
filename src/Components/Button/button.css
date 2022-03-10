@@ -1,0 +1,13 @@
+.button{
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    padding: 3px 7px;
+}
+.button.secondary{
+    border: 1px solid #333;
+    padding: 0;
+}
